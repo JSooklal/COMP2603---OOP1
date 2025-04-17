@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Nursery
+comment0.text=\r\n\r\n\ @author\ phaedramohammed\r\n
+comment1.params=
+comment1.target=Nursery()
+comment2.params=name\ price\ quantity
+comment2.target=java.lang.String\ addPlant(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\ \ This\ method\ creates\ a\ new\ plant\ object\ and\ inserts\ it\ into\ the\ collection\ \r\n\ \ \ of\ plants.\ The\ String\ parameters\ are\ converted\ to\ primitive\ types\ as\r\n\ \ \ necessary\ before\ creating\ a\ new\ Plant\ object.\r\n
+comment3.params=plantName
+comment3.target=java.util.ArrayList\ getPlant(java.lang.String)
+comment3.text=\ \ This\ method\ retrieves\ a\ plant\ object\ from\ the\ collection\ using\ a\ plant\ \r\n\ \ \ name\ as\ the\ search\ criteria.\ If\ found,\ the\ details\ of\ the\ plant\ are\ \r\n\ \ \ returned\ as\ an\ ArrayList\ of\ Strings\ by\ invoking\ the\ getPlantDetails()\r\n\ \ \ method\ from\ the\ Plant\ class.\r\n
+comment4.params=plantName
+comment4.target=Plant\ getPlantObject(java.lang.String)
+comment4.text=\ \ This\ is\ a\ private\ helper\ method.\ It\ searches\ the\ collection\ of\ plants\r\n\ \ \ for\ the\ plant\ with\ the\ given\ name.\ If\ found,\ the\ Plant\ object\ is\ returned\r\n\ \ \ otherwise\ null\ is\ returned\r\n
+comment5.params=name\ price\ quantity
+comment5.target=java.lang.String\ updatePlant(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.text=\ \ This\ method\ retrieves\ a\ plant\ object\ from\ the\ collection\ using\ a\ plant\ \r\n\ \ \ name\ as\ the\ search\ criteria.\ If\ found,\ the\ details\ of\ the\ plant\ object\r\n\ \ \ are\ updated\ with\ the\ input\ data.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getPlantsByName()
+comment6.text=\ \ This\ method\ returns\ a\ sorted\ list\ of\ the\ details\ of\ all\ of\ the\ plants\ in\r\n\ \ \ the\ collection.\ The\ list\ is\ sorted\ alphabetically\ by\ plant\ name.\ If\ the\r\n\ \ \ collection\ is\ empty,\ the\ default\ message\ is\ sent.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getPlantsByPrice()
+comment7.text=\ \ This\ method\ returns\ a\ sorted\ list\ of\ the\ details\ of\ all\ of\ the\ plants\ in\r\n\ \ \ the\ collection.\ The\ list\ is\ sorted\ in\ ascending\ order\ by\ price.\ If\ the\r\n\ \ \ collection\ is\ empty,\ the\ default\ message\ is\ sent.\r\n
+numComments=8
