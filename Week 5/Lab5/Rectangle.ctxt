@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=l\ b
+comment1.target=Rectangle(int,\ int)
+comment2.params=
+comment2.target=void\ calculateArea()
+comment3.params=curve
+comment3.target=void\ roundEdge(int)
+comment4.params=
+comment4.target=java.awt.Shape\ draw()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
