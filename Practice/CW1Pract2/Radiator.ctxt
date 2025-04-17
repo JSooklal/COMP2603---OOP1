@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Radiator
+comment1.params=
+comment1.target=Radiator()
+comment2.params=
+comment2.target=int\ getRadiatorID()
+comment3.params=rm
+comment3.target=void\ heats(Room)
+numComments=4
