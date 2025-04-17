@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ticket
+comment1.params=
+comment1.target=Ticket()
+comment2.params=ticketNumber
+comment2.target=void\ setTicketNumber(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=int\ hashCode()
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6
